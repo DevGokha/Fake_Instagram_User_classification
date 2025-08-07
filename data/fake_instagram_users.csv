@@ -1,0 +1,3 @@
+username,followers,following,posts,bio_length,profile_pic,external_url,is_fake
+user1,50,300,2,0,0,1,1
+user2,1500,100,300,80,1,0,0
